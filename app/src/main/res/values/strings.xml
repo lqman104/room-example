@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">Room exercize</string>
+  <string name="note_caption">Catatan</string>
+  <string name="delete_caption">Hapus</string>
+  <string name="save_caption">Simpan</string>
+  <string name="cancel_caption">Batal</string>
+</resources>
